@@ -81,6 +81,7 @@ license:		creative commons CC-BY-NC-SA
 			<secondaryColor>ebebeb</secondaryColor>
 			<fontPath>./art/Roboto-Regular.ttf</fontPath>
 			<fontSize>0.03</fontSize>
+            <scrollSound>./art/scroll.wav</scrollSound>
 			<forceUppercase>1</forceUppercase>
 		</textlist>
 		
