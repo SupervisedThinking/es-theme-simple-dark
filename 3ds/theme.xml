@@ -33,7 +33,7 @@
 		</text>
 		
 		<image name="logo">
-			<path>./art/n3ds.svg</path>
+			<path>./art/3ds.svg</path>
 			<pos>0.025 0.079</pos>
 			<maxSize>0.55 0.08</maxSize>
 			<origin>0 0.5</origin>
